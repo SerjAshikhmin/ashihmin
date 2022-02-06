@@ -57,7 +57,8 @@ class RandomGifFragment : Fragment() {
 
     private fun initListeners(view: View) {
         nextButton.setOnClickListener {
-            currentGifUrlPosition++
+            descriptionTextView.text = ""
+                currentGifUrlPosition++
             if (loadedGifs.size <= currentGifUrlPosition) {
                 this.downloadRandomImage(view)
             } else {

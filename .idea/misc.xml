@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/AndroidStudioProjects/ashihmin/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/Android/AndroidStudioProjects/ashihmin/app/src/main/res/layout/card_captioned_image.xml" value="0.2758152173913043" />
         <entry key="..\:/Android/AndroidStudioProjects/ashihmin/app/src/main/res/layout/fragment_gif.xml" value="0.286231884057971" />
         <entry key="..\:/Android/AndroidStudioProjects/ashihmin/app/src/main/res/layout/fragment_latest_gifs.xml" value="0.2758152173913043" />
+        <entry key="..\:/Android/AndroidStudioProjects/ashihmin/app/src/main/res/layout/fragment_random_gif.xml" value="0.25" />
         <entry key="..\:/Android/AndroidStudioProjects/ashihmin/app/src/main/res/layout/fragment_top.xml" value="0.22135416666666666" />
         <entry key="..\:/Android/AndroidStudioProjects/ashihmin/app/src/main/res/layout/fragment_top_gifs.xml" value="0.2758152173913043" />
       </map>
